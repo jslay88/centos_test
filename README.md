@@ -1,6 +1,6 @@
 # Centos Test
 Run docker-compose:
 
-    docker-compose -d up
+    docker-compose up -d
 
 Access site @ `http://localhost:8000`
